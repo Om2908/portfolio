@@ -168,7 +168,7 @@ const Profile = ( { show, setShow, darkmode, bgcolor,setCross }) => {
             Om Italiya
           </h1>
           <div
-            className="passion w-6/12 h-8 p-2 relative lg:top-12 sm:top-20"
+            className="passion w-7/12 h-8 p-2 relative lg:top-12 sm:top-20"
             style={{
               background: `${bgcolor === "white" ? "#f3f6f6" : "#1D1D1D"}`,
             }}
@@ -179,7 +179,7 @@ const Profile = ( { show, setShow, darkmode, bgcolor,setCross }) => {
                 color: `${bgcolor === "white" ? "#000000" : "#A6A6A6"}`,
               }}
             >
-              DEVELOPER
+              Software Developer
             </h1>
           </div>
 

@@ -6,7 +6,7 @@ const handlecolorName = () => {
   let borderColorName = document.getElementById("borderColorName");
   console.log(naam);
   naam.style.color = "#FE7878";
-  borderColorName.style.borderBottom = "1px solid #FE7878";
+  borderColorName.style.borderBottom = "2px solid #FE7878";
   borderColorName.style.height = "1.5rem";
 };
 
@@ -15,7 +15,7 @@ const handlecolorEmail = () => {
   let borderColorEmail = document.getElementById("borderColorEmail");
   email.style.color = "#1B74E4";
   borderColorEmail.style.borderBottom = "1px solid #1B74E4";
-  borderColorEmail.style.height = "1.5rem";
+  borderColorEmail.style.height = "1rem";
 };
 
 const handlecolorMessage = () => {
@@ -80,7 +80,7 @@ const Contact = ({ bgcolor, darkmode }) => {
 
                 <input
                   type="text"
-                  className="w-10/12 h-2 border-b border-black outline-none"
+                  className="w-10/12 h-6 border-b border-black outline-none"
                   style={{
                     background: `${
                       bgcolor === "white" ? "#f3f6f6" : "#1D1D1D"
@@ -106,7 +106,7 @@ const Contact = ({ bgcolor, darkmode }) => {
 
                 <input
                   type="text"
-                  className="w-10/12 h-2 border-b border-black outline-none"
+                  className="w-10/12 h-6 border-b border-black outline-none"
                   style={{
                     background: `${
                       bgcolor === "white" ? "#f3f6f6" : "#1D1D1D"
@@ -130,7 +130,7 @@ const Contact = ({ bgcolor, darkmode }) => {
                 </label>
                 <input
                   type="text"
-                  className="w-10/12 h-2 border-b border-black outline-none"
+                  className="w-10/12 h-6 border-b border-black outline-none"
                   style={{
                     background: `${
                       bgcolor === "white" ? "#f3f6f6" : "#1D1D1D"

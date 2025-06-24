@@ -316,23 +316,7 @@ const Profile = ( { show, setShow, darkmode, bgcolor,setCross }) => {
                   : "border-b border-slate-500"
               }`}
             >
-              <div
-                className={`phone w-10 h-10 p-2 flex items-center justify-center ${
-                  bgcolor == "white" ? "bg-white" : "bg-black"
-                } rounded-lg  hover:bg-blue-500`}
-              >
-                <BsCalendarDate className="text-2xl text-purple-600 hover:text-white" />
-              </div>
-
-              <div className="phone">
-                <h1
-                  className={`${
-                    bgcolor === "white" ? "text-black" : "text-white"
-                  }`}
-                >
-                  30 oct 2004 
-                </h1>
-              </div>
+              
             </div>
           </div>
           <div className="flex relative top-5">

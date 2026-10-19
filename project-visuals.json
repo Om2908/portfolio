@@ -1,0 +1,48 @@
+{
+  "mode": "Built-in image_gen",
+  "purpose": "Fictional portfolio concept mockups; not screenshots of client deployments",
+  "assets": [
+    {
+      "id": "relay",
+      "name": "Relay",
+      "type": "AI support agent",
+      "file": "public/projects/relay.jpg",
+      "prompt": "Use case: ui-mockup. Asset type: landscape 3:2 portfolio project thumbnail. Create one high-end photorealistic product presentation for a fictional concept named Relay, a AI support agent. Subject: an elegant deep navy customer-support dashboard on a premium thin desktop monitor, focused chat panel with a green AI reply, left inbox sidebar, a few restrained chat cards, subtle turquoise highlights. Composition: entire devices fully visible, generous margin, slight three-quarter perspective, soft matching studio backdrop and subtle realistic contact shadows. Color palette: midnight navy, jade and ice. Very crisp polished interface details. The title \"Relay\" is the only large readable brand text, and a tiny \"CONCEPT\" badge may appear. UI microcopy can be minimal. No external brand names, no real logos, no exaggerated statistics, no watermark, no person. One cohesive image, not a collage or grid of unrelated projects."
+    },
+    {
+      "id": "leadpilot",
+      "name": "LeadPilot",
+      "type": "AI sales agent",
+      "file": "public/projects/leadpilot.jpg",
+      "prompt": "Use case: ui-mockup. Asset type: landscape 3:2 portfolio project thumbnail. Create one high-end photorealistic product presentation for a fictional concept named LeadPilot, a AI sales agent. Subject: a polished warm white CRM desktop dashboard with a focused three-column lead pipeline, small company avatar circles, an amber AI insight card and a refined conversion chart. Composition: entire devices fully visible, generous margin, slight three-quarter perspective, soft matching studio backdrop and subtle realistic contact shadows. Color palette: warm ivory, amber and muted terracotta. Very crisp polished interface details. The title \"LeadPilot\" is the only large readable brand text, and a tiny \"CONCEPT\" badge may appear. UI microcopy can be minimal. No external brand names, no real logos, no exaggerated statistics, no watermark, no person. One cohesive image, not a collage or grid of unrelated projects."
+    },
+    {
+      "id": "flowdesk",
+      "name": "FlowDesk",
+      "type": "Business automation",
+      "file": "public/projects/flowdesk.jpg",
+      "prompt": "Use case: ui-mockup. Asset type: landscape 3:2 portfolio project thumbnail. Create one high-end photorealistic product presentation for a fictional concept named FlowDesk, a Business automation. Subject: a sleek dark indigo desktop workflow canvas on a thin black laptop, four crisp connected automation nodes with simple mail, agent, document and check symbols, small floating execution log panel. Composition: entire devices fully visible, generous margin, slight three-quarter perspective, soft matching studio backdrop and subtle realistic contact shadows. Color palette: ink indigo, lavender and soft blue. Very crisp polished interface details. The title \"FlowDesk\" is the only large readable brand text, and a tiny \"CONCEPT\" badge may appear. UI microcopy can be minimal. No external brand names, no real logos, no exaggerated statistics, no watermark, no person. One cohesive image, not a collage or grid of unrelated projects."
+    },
+    {
+      "id": "forma",
+      "name": "Forma",
+      "type": "E-commerce store",
+      "file": "public/projects/forma.jpg",
+      "prompt": "Use case: ui-mockup. Asset type: landscape 3:2 portfolio project thumbnail. Create one high-end photorealistic product presentation for a fictional concept named Forma, a E-commerce store. Subject: a refined premium e-commerce desktop storefront on a cream monitor, featuring beautiful studio photography of a beige leather tote bag, a ceramic lamp and a minimalist wristwatch, graceful editorial grid, subtle checkout drawer. Composition: entire devices fully visible, generous margin, slight three-quarter perspective, soft matching studio backdrop and subtle realistic contact shadows. Color palette: sand, cream, black and muted olive. Very crisp polished interface details. The title \"Forma\" is the only large readable brand text, and a tiny \"CONCEPT\" badge may appear. UI microcopy can be minimal. No external brand names, no real logos, no exaggerated statistics, no watermark, no person. One cohesive image, not a collage or grid of unrelated projects."
+    },
+    {
+      "id": "daylight",
+      "name": "Daylight",
+      "type": "Task mobile app",
+      "file": "public/projects/daylight.jpg",
+      "prompt": "Use case: ui-mockup. Asset type: landscape 3:2 portfolio project thumbnail. Create one high-end photorealistic product presentation for a fictional concept named Daylight, a Task mobile app. Subject: two realistic upright premium smartphones showing a beautifully designed daily planning mobile app, friendly peach and cream interface, clear daily task list with round checkboxes, elegant weekly calendar and small focus timer. Composition: entire devices fully visible, generous margin, slight three-quarter perspective, soft matching studio backdrop and subtle realistic contact shadows. Color palette: peach, cream, forest green. Very crisp polished interface details. The title \"Daylight\" is the only large readable brand text, and a tiny \"CONCEPT\" badge may appear. UI microcopy can be minimal. No external brand names, no real logos, no exaggerated statistics, no watermark, no person. One cohesive image, not a collage or grid of unrelated projects."
+    },
+    {
+      "id": "slotly",
+      "name": "Slotly",
+      "type": "Booking mobile app",
+      "file": "public/projects/slotly.jpg",
+      "prompt": "Use case: ui-mockup. Asset type: landscape 3:2 portfolio project thumbnail. Create one high-end photorealistic product presentation for a fictional concept named Slotly, a Booking mobile app. Subject: two realistic premium smartphones showing a sophisticated appointment booking app, lavender calendar with day chips and available time slots, second screen showing clear booking confirmation with a large simple checkmark. Composition: entire devices fully visible, generous margin, slight three-quarter perspective, soft matching studio backdrop and subtle realistic contact shadows. Color palette: lavender, white and plum. Very crisp polished interface details. The title \"Slotly\" is the only large readable brand text, and a tiny \"CONCEPT\" badge may appear. UI microcopy can be minimal. No external brand names, no real logos, no exaggerated statistics, no watermark, no person. One cohesive image, not a collage or grid of unrelated projects."
+    }
+  ]
+}

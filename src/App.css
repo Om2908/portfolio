@@ -290,7 +290,6 @@ select:focus-visible {
 }
 .hero-visual {
   position: relative;
-  padding-bottom: 40px;
   max-width: 470px;
 }
 .portrait-frame {
@@ -344,15 +343,14 @@ select:focus-visible {
   font-size: 22px;
 }
 .workflow-card {
-  position: absolute;
-  right: -24px;
-  bottom: 7px;
+  position: relative;
+  margin-top: 12px;
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 7px;
   padding: 17px 20px;
   box-shadow: 0 16px 40px #0003;
-  width: 300px;
+  width: 100%;
 }
 .workflow-label {
   font-size: 9px;
@@ -1132,17 +1130,14 @@ h3 {
     font-size: 7px;
   }
   .workflow-card {
-    right: -13px;
-    width: 265px;
     padding: 14px 16px;
-    bottom: 0;
   }
   .portrait-caption {
     padding: 17px 20px;
   }
   .visual-coordinate {
     font-size: 6px;
-    bottom: -21px;
+    bottom: -27px;
     letter-spacing: 0.8px;
   }
   .scroll-cue {
@@ -1343,9 +1338,3 @@ h3 {
   }
 }
 
-/* Keep the automation diagram below the portrait on compact layouts. */
-@media (max-width: 1050px) {
-  .workflow-card { position: relative; right: auto; bottom: auto; width: 100%; margin-top: 12px; }
-  .hero-visual { padding-bottom: 0; }
-  .visual-coordinate { bottom: -27px; }
-}
